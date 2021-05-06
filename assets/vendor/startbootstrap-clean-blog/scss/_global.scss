@@ -33,7 +33,7 @@ a {
 
 blockquote {
     font-style: italic;
-    color: #757575;
+    color: #6c757d;
 }
 
 .section-heading {
@@ -54,23 +54,23 @@ blockquote {
 }
 
 ::-moz-selection {
-    color: $white;
+    color: #fff;
     background: $primary;
     text-shadow: none;
 }
 
 ::selection {
-    color: $white;
+    color: #fff;
     background: $primary;
     text-shadow: none;
 }
 
 img::selection {
-    color: $white;
+    color: #fff;
     background: transparent;
 }
 
 img::-moz-selection {
-    color: $white;
+    color: #fff;
     background: transparent;
 }
